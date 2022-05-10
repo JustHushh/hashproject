@@ -13,10 +13,10 @@ public class Gear1 <K extends Comparable<K>, V> {
         }
     }
 
-    public void put(K key, V val) {
+    public void pdown(K key, V val) {
         //code
     }
-    public void get(K key){
+    public void take(K key){
         //code
     }
     public void delete(K key){
